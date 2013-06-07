@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DanceBot</string>
+    <string name="load">Load</string>
+    <string name="help">Anleitung</string>
+    <string name="score">Highscore</string>
+    <string name="music">Musik</string>
+    <string name="ex_music">Beispiele</string>
+    <string name="my_music">Meine Musik</string>
+    <string name="play">Spiel</string>
+    <string name="exit">Beenden</string>
+    <string name="action_settings">Settings</string>
+    <string name="kreis">Kreis</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="desc">Logo</string>
+    <string name="progress">Progress</string>
+    <string name="song_1">Beispiel_1</string>
+    <string name="song_2">Beispiel_2</string>
+    <string name="song_3">Beispiel_3</string>
+    <string name="song_4">Beispiel_4</string>
+    <string name="song_5">Beispiel_5</string>
+    
+    <string name="my_song_1">Lied_1</string>
+    <string name="my_song_2">Lied_2</string>
+    <string name="my_song_3">Lied_3</string>
+    <string name="my_song_4">Lied_4</string>
+    <string name="my_song_5">Lied_5</string>
+    <string name="help_title">Anleitung DanceBot</string>
+    <string name="help_text"> Der User kann die App starten, sich die Anleitung durchlesen und natürlich die App auch wieder beenden (um Speicher und Akku zu schonen etc).
+                              Im zweiten Schritt läuft die Musik bereits und der User beginnt den Bot zu steuern. Unterstützend werden wie bei Tetris die zu drückenden Pfeile, klein und animiert, angezeigt. 
+							  Später gibt es die Möglichkeit die Musik aus verschiedenen Vorgaben auszuwählen oder gar eigene Musik hochzuladen, zu der dann Bewegunsabläufe gespeichert und wieder abgefragt werden können.</string>
+
+</resources>
